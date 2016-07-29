@@ -1,0 +1,12 @@
+.clear:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+body,dl,dd,p,h1,h2,h3,h4,h5,h6{margin:0;font-size:12px;}
+ol,ul{margin:0;padding:0;list-style:none;}
+a{text-decoration:none;}
+img{border:none;}
+input{
+	padding: 0;
+}

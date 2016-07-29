@@ -1,0 +1,41 @@
+.bgclass{
+	background: ##3b4747;
+}
+
+.fl{
+	float: left;
+}
+.fr{
+	float:right;
+}
+.xuebi{
+	background-image: url(img/xuebi.png);
+}
+.Sprite{
+	background-image: url(img/sprite.png);
+}
+.clear:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.mr{
+	margin-left: 27px;
+}
+.red{
+	background: red;
+}
+.blue{
+	background: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
