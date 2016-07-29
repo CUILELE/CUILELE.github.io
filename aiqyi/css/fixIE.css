@@ -1,0 +1,4 @@
+/*解决IE兼容问题*/
+img{
+	border: none;
+}

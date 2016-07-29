@@ -1,0 +1,454 @@
+.head{
+	width: 100%;
+	height: 455px;
+}
+.nav{
+	width: 100%;
+	height: 45px;
+	background:url(../img/bgbg.jpg) repeat-x;
+}
+.ffffff{
+	width: 1180px;
+	margin: 0 auto;
+}
+.nav_left{
+	width: 280px;
+	height: 45px;
+	padding-left: 85px;
+}
+.navigation{
+	width: 87px;
+	height: 31px;
+	margin-top: 8px;
+}
+.nav_center{
+	width: 446px;
+	
+	margin:7px 0 0 71px ;
+}
+.nav_text{
+	width: 370px;
+	height: 30px;
+	background: white;
+}
+.nav_buttom{
+	width: 76px;
+	height: 30px;
+	background-position: 0 0;
+}
+.nav_right{
+	width: 405px;
+	height: 45px;
+	margin-left: 58px;
+	line-height: 45px;
+	font-size: 0;
+}
+.nav_right_line{
+	width: 1px;
+	height: 12px;
+	background: #545454;
+	margin: 0 7px;
+	margin-top: 16px;
+}
+.nav_right li{
+	float: left;
+	margin-left: 10px;
+}
+.nav_right li a {
+	color: white;
+	font-size: 12px;
+}
+.shangchuan{
+	width: 56px;
+}
+.li_left{
+	width: 14px;
+	height: 11px;
+	margin-top: 18px;
+	background-position: 0 -48px;
+}
+.li_right{
+	width: 10px;
+	height: 6px;
+	margin-top: 20px;
+	background-position: 0 -69px;
+}
+.head_box{
+	width: 100%;
+	height: 410px;
+	position: relative;
+	background:url(../img/head_bg.jpg) no-repeat center;
+}
+.head_content{
+	width: 1180px;
+	height: 410px;
+	margin: 0 auto;
+	position: relative;
+}
+.sort{
+	width: 1180px;
+	height: 34px;
+	padding-top: 10px;
+	font-size: 12px;
+	line-height: 34px;
+	position: relative;
+}
+.sort a{
+	color: white;
+}
+.sort li{
+	float: left;
+	margin-right: 20px;
+}
+.sort_content{
+	width: 1180px;
+	height: 34px;
+	background: black;
+	opacity: 0.5;
+	filter:alpha(opacity=50);
+}
+.sort_left{
+	width: 500px;
+	position: absolute;
+	margin-left: 10px;
+	top: 10px;
+	left: 0;
+}
+.sort_right{
+	width: 480px;
+	position: absolute;
+	top: 10px;
+	right:-25px;
+}
+.transmit{
+	position: absolute;
+	left: 0;
+	bottom: 85px;
+}
+.transmit a{
+	color: white;
+	line-height: 27px;
+}
+.play{
+	width: 32px;
+	height: 27px;
+	background-position: 0 -85px;
+	margin-right: 13px;
+}
+.hot{
+	width: 100%;
+	height: 60px;
+	background: black;
+	opacity: 0.5;
+	filter:alpha(opacity=50);
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.hot_content{
+	width: 1180px;
+	height: 60px;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	margin-left: -590px;
+}
+.hot_content h2 a{
+	line-height: 60px;
+	margin-left: 11px;
+}
+.hot_content a{
+	color: white;
+}
+.hot_h2{
+	width: 142px;
+	height: 60px;
+}
+.pen{
+	width: 20px;
+	height: 20px;
+	background-position:0 -118px;
+	margin-top: 20px;
+}
+.pen_right{
+	width: 2px;
+	height: 25px;
+	margin-top: 19px;
+	background: #484848;
+}
+.hot_item{
+	width:1014px ;
+	height: 60px;
+	margin-left: 24px;
+}
+.hot_item li{
+	float: left;
+	margin-right: 36px;
+	font-size: 12px;
+	line-height: 60px;
+}
+.hot_item .VIP{
+	font-size:20px;
+	color: #ebca8b;
+}
+.arrows{
+	width: 1180px;
+	height: 47px;
+	position: absolute;
+	bottom: 210px;
+	left: 50%;
+	margin-left: -590px;
+}
+.left_arrows{
+	width: 29px;
+	height: 47px;
+	background-position: -91px 0;
+}
+.right_arrows{
+	width: 29px;
+	height: 47px;
+	background-position: -130px 0;
+}
+.main{
+	width: 1180px;
+	margin: 0 auto;
+}
+.lately{
+	width: 1180px;
+	height: 345px;
+	margin-top: 30px;
+}
+.lately_left{
+	width: 182px;
+	height: 345px;
+}
+.debark{
+	width: 180px;
+	height: 290px;
+	background: #fafafa;
+	border: 1px solid #EBEBEB;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 20px;
+}
+.boy{
+	margin-top: 25px;
+}
+.debark a{
+	color: #69a701;
+}
+.debark_text{
+	width: 120px;
+	margin: 11px auto 0 ;
+}
+.debark_buttom{
+	width: 100px;
+	height: 28px;
+	background: #6a9e1b;
+	margin-top: 13px;
+	color: white;
+}
+.one_money{
+	margin: 24px 1px 1px 1px;
+}
+.lately_content{
+	width: 980px;
+	height: 345px;
+}
+.lately_title{
+	width: 980px;
+	height: 36px;
+	position: relative;
+	border-top: 2px solid #86bc20;
+}
+.hot_move{
+	width:980px ;
+	height: 290px;
+}
+.movie_VIP{
+	line-height:36px ;
+	margin-left: 10px;
+	font-size: 12px;
+}
+
+.title_line{
+	width: 1px;
+	height: 12px;
+	background: #ebebeb;
+	margin:15px 12px 0 12px;
+}
+.movie_item{
+	width: 180px;
+	height: 290px;
+}
+.new_play{
+	position: relative;
+	z-index: 1;
+	margin-top: -2px;
+}
+.pic_case{
+	width: 180px;
+	height: 236px;
+	position: relative;
+}
+.text_case{
+	width: 175px;
+	height: 47px;
+	padding: 7px 0 0 5px;
+	background: url(../img/line.jpg) repeat-x;
+	line-height: 22px;
+	font-size: 12px;
+	position: relative;
+}
+.referral{
+	color: #999;
+}
+.grade_box{
+	position: absolute;
+	top:12px;
+	right: 5px;
+}
+.grade_left{
+	font-size: 18px;
+	color: red;
+	font-weight: bold;
+}
+.grade_right{
+	font-size: 12px;
+	color: red;
+}
+.lately_content_two{
+	width: 1180px;
+		margin-top: 68px;
+}
+.lately_title_two{
+	width: 1180px;
+	height: 40px;
+	border-top: 2px solid #86bc20;
+}
+.hot_move_two{
+	width: 1180px;
+	height: 290px;
+
+}
+.my{
+	height: 36px;
+	position: relative;
+	z-index: 1;
+	margin-top:-2px;
+}
+.popular{
+	width: 1180px;
+	margin-bottom: 50px;
+	margin-top: 70px;
+}
+.popular_title{
+	width: 1180px;
+	height: 38px;
+	border-top:2px solid #86bc20 ;
+}
+.popular_name{
+	height: 38px;
+	margin-top: -2px;
+}
+.popular_left{
+	width: 37px;
+	height: 36px;
+	background-position: 0 -177px;
+}
+.popular_center{
+	height: 36px;
+	line-height: 36px;
+	color:white ;
+	font-size: 18px;
+	background:url(../img/center.jpg) repeat-x;
+}
+.popular_right{
+	width: 37px;
+	height: 36px;
+	background-position: 0 -227px;
+}
+.popular_content{
+	width: 1180px;
+	height: 325px;
+	margin-top: 15px;
+/*	margin-left: -20px;*/
+}
+.popular_content_left{
+	width: 380px;
+	height: 325px;
+}
+.game_down{
+	width: 375px;
+	height: 47px;
+	padding: 8px 0 0 5px;
+	line-height: 20px;
+	font-size: 12px;
+	background: url(../img/ji_e_line.jpg) repeat-x;
+}
+.popular_content_right{
+	width: 780px;
+	margin-left: 20px;
+	overflow: hidden;
+}
+.popular_right_item{
+	width: 180px;
+	height: 155px;
+	margin-bottom: 15px;
+}
+.you{
+	width: 175px;
+	height: 45px;
+	padding: 8px 0 0 5px;
+	background: #F2F2F2 ;
+	line-height: 20px;
+	border-bottom: 1px solid #ebebeb;
+}
+.popular_content_right li{
+	margin-left: 20px;
+	display: inline;
+}
+/*display: inline;解决双边距*/
+.aaaaaaa{
+	margin-left: -20px;
+	
+}
+.foot{
+	width: 100%;
+	height: 104px;
+	border-top:1px solid  #CCCCCC ;
+	text-align: center;
+	line-height: 23px;
+	margin-top: 30px;
+}
+.foot_text{
+	padding-top: 21px;
+}
+.foot_text a{
+	margin: 0 10px 0 11px;
+}
+.ad{
+	width: 1180px;
+	height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

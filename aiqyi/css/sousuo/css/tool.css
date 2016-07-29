@@ -1,0 +1,36 @@
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.s_xuebi{
+	background-image:url(../img/s_xuebi.png) ;
+}
+.clear{
+	zoom: 1;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.bgg{
+	background: red;
+}
+.blue{
+	background: blue;
+}
+.mt{
+	margin-top: 15px;
+}
+.mr{
+	margin-right: 20px;
+}
+p{
+	color: #999;
+	font-size: 12px;
+}
+
+
+

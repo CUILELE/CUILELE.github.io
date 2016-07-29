@@ -1,0 +1,28 @@
+/*<滑动>*/
+.title_left{
+	width: 37px;
+	height: 36px;
+	background: url(../img/left.jpg) no-repeat;
+}
+.title_right{
+	width: 37px;
+	height: 36px;
+	background: url(../img/right.jpg) no-repeat;
+}
+.title_center{
+	line-height: 38px;
+	color: white;
+	height: 36px;
+	font-size: 18px;
+	background: url(../img/center.jpg) repeat-x;
+}
+.distinct{
+	width: 42px;
+	height: 16px;
+	background-position:0 -153px ;
+	display: block;
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+	
+}

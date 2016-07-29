@@ -1,0 +1,101 @@
+.xuebi{
+	background-image: url(../img/xuebi.png);
+}
+.new_xuebi{
+	background-image:url(../img/new_xuebi.png) ;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.love a:hover {
+	color:#699f00 ;
+}
+.love_two a:hover {
+	background:#688a00 ;
+}
+
+.ttxt{
+	color: #333;
+	font-size: 12px;
+}
+.more{
+	margin-top: 22px;
+	color: #699f00 ;
+}
+.black{
+	color: black;
+}
+.margin_bottom{
+	margin-bottom: 0;
+}
+.mr{
+	margin-right: 20px;
+}
+.ml{
+	margin-left: 20px;
+}
+.size{
+	font-size: 20px;
+}
+.star{
+	width: 180px;
+	height: 137px;
+}
+.suit{
+	width: 1180px;
+}
+.hd{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	width: 54px;
+	height: 16px;
+	background: black;
+	opacity: 0.5;
+	filter:alpha(opacity=50); 
+	color: white;
+}
+.block{
+	display: block;
+}
+.p_color{
+	color: #999;
+}
+.t_size{
+	font-size: 12px;
+	color: black;
+	margin-left: 5px;
+}
+.p_1080{
+	display: block;
+	width: 42px;
+	height: 16px;
+	font-size: 12px;
+	background: black;
+	text-align: center;
+	opacity: 0.5;
+	filter:alpha(opacity=50); 
+}
+.bgg{
+	background: red;
+}
+.mab{
+	margin-bottom: 13px;
+}
+.mt{
+	margin-top: 25px;
+}
+.blue{
+	background: blue;
+}
+.white{
+	color: white;
+}
+.mt_top{
+	margin-top: 14px;
+}
+
+

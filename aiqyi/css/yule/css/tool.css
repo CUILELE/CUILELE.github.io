@@ -1,0 +1,18 @@
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.bgg{
+	background: red;
+}
+.block{
+	display: block;
+}
+.ml{
+	margin-left: 20px;
+}
+.mt{
+	margin-top: 12px;
+}
