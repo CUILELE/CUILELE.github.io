@@ -1,0 +1,74 @@
+.door{
+	height: 1.2rem;
+	font-size: 0.6rem;
+	line-height: 1.2rem;
+	color: white;
+}
+.movie_left{
+	width: 0.525rem;
+	height: 1.2rem;
+	background: url(../img/left.jpg) no-repeat;
+	background-size: 100%;
+}
+.movie_right{
+	width: 0.525rem;
+	height: 1.2rem;
+	background: url(../img/right.jpg) no-repeat;
+	background-size: 100%;
+}
+.movie_center{
+	height: 1.2rem;
+	background: url(../img/center.jpg) repeat-x;
+	background-size: 100% 100%;
+}
+.picture_box{
+	width: 7.5rem;
+	height: 4.25rem;
+	position: relative;
+}
+.picture_text{
+	position: absolute;
+	bottom: 0.25rem;
+	right: 0.2rem;
+	color: white;
+	font-size: 0.55rem;
+}
+.movie_pic_box{
+	width: 4.9rem;
+	height: 6.5rem;
+	position:relative;
+}
+.movie_pic_text{
+	position: absolute;
+	bottom: 0.25rem;
+	right: 0.2rem;
+	color: white;
+	font-size: 0.55rem;
+}
+.movie_pic_vip{
+	width: 1.5rem;
+	height:0.75rem;
+	position: absolute;
+	top: 0.25rem;
+	left: 0.25rem;
+}
+.movie_pic_vip img{
+	width: 1.5rem;
+	height:0.75rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

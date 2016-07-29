@@ -1,0 +1,103 @@
+body,html{
+	width: 100%;
+}
+.box{
+	width: 100%;
+	height: 100%;
+	background: url(../img/ly-APP02.jpg);
+	padding-bottom: 0.4rem;
+}
+.head{
+	width: 100%;
+	height: 9.5rem;
+	background: url(../img/ly-APP01.jpg) no-repeat;
+	background-size:100%;
+}
+.content{
+	padding:  0 0.5rem;
+}
+.one{
+	width: 100%;
+	height: 100%;
+	background: url(../img/ly-APP-03.png) no-repeat;
+	background-size: 100%;
+	margin-top: -3rem;
+}
+.one_item{
+	padding: 2.1rem 0.5rem 0.5rem 0.6rem;
+	height: 100%;
+	font-size:0;
+}
+.one_item dd{
+	width: 6.55rem;
+	/*height: 6.775rem;*/
+	margin: 0.5rem auto 0;
+}
+.top_pic{
+	height: 1.56rem;
+	margin-bottom: 0.4rem;
+}
+.one_item dt{
+	display: inline-block;
+	width:49%;
+	margin-top: 0.3rem;
+}
+/*.one_item img{
+	width: 100%;
+}*/
+.two{
+	width: 100%;
+	height: 100%;
+	background: url(../img/2F/ly-APP-04.png) no-repeat;
+	background-size: 100%;
+	margin-top: 0.4rem;
+	padding-bottom: 0.6rem;
+}
+.two ul{
+	height: 21.125rem;
+	padding:  1.3rem 0.5rem 0;
+}
+.two li{
+	width:49%;
+	height: 6.75rem;
+	margin-top: 0.4rem;
+}
+.three{
+	width: 100%;
+	height: 100%;
+	background: url(../img/2F/ly-APP-05.png) no-repeat;
+	background-size: 100%;
+	margin-top: 0.4rem;
+	padding-bottom: 0.6rem;
+}
+.three_item{
+	padding: 1.5rem 0.5rem 0.5rem 0.6rem;
+	height: 100%;
+	font-size:0;
+}
+.three_item dd{
+	width: 6.55rem;
+	/*height: 6.775rem;*/
+	margin: 0.5rem auto 0;
+}
+.three_item dt{
+	display: inline-block;
+	width:49%;
+	margin-top: 0.3rem;
+}
+.four{
+	width: 100%;
+	height: 100%;
+	background: url(../img/4F/ly-APP-06.png) no-repeat;
+	background-size: 100%;
+	margin-top: 0.4rem;
+	padding-bottom: 0.6rem;
+}
+.five{
+	width: 100%;
+	height: 100%;
+	background: url(../img/5F/ly-APP-07.png) no-repeat;
+	background-size: 100%;
+	margin-top: 0.4rem;
+	padding-bottom: 0.6rem;
+}
