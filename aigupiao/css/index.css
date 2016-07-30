@@ -1,0 +1,213 @@
+body{
+	width: 100%;
+	background: #efeff1;
+}
+.head{
+	width: 100%;
+	height: 2.175rem;
+	border-bottom: 0.025rem solid #cacacc;
+	border-top: 0.025rem solid #cacacc;
+	line-height: 2.175rem;
+	background: #f8f8f8;
+	position: fixed;
+	z-index: 100;
+}
+.logo{
+	padding: 0.35rem 0;
+	height: 1.475rem;
+	float: left;
+	margin-left: 0.825rem;
+}
+.head img{
+	width: 4.15rem;
+	height: 1.5rem;
+}
+.head_right{
+	float: left;
+	font-size: 0.6rem;
+	margin-left: 0.3rem;
+}
+.head_right li{
+	float: left;
+	width: 2.3rem;
+	text-align: center;
+	border-left:0.025rem solid #cacacc;
+	font-weight: bold;
+}
+.head_right .superior{
+	background: white;
+	color: red;
+}
+.head_right .downlond{
+	width: 3.025rem;
+}
+.im{
+	position: absolute;
+	top: 0;
+	right:0;
+}
+.im img{
+	width: 2.15rem;
+	height: 2.175rem;
+}
+.content{
+	width: 100%;
+	padding-top: 2.45rem;
+	line-height: 1.975rem;
+}
+.teacher{
+	width: 100%;
+	height: 1.975rem;
+	background: white;
+	text-align: center;
+	font-size: 0.6rem;
+	position: relative;
+	border-bottom:0.025rem solid #cacaca;
+	margin-bottom: 0.4rem;
+}
+.teacher_ico{
+	position: absolute;
+	top: 0.725rem;
+	right: 0.5rem;
+	width: 0.7rem;
+	height: 0.7rem;
+	background:url(../img/right_ico.jpg) no-repeat;
+}
+.teacher_content{
+	width: 15.4 rem;
+	padding: 0.4rem 0.3rem 0 0.3rem;
+	margin-bottom: 0.45rem;
+}
+.teacher_content li{
+	float: left;
+	width: 4.85rem;
+	height: 7.0rem;
+	background: white;
+	margin-left: 0.2rem;
+}
+.teacher_content li img{
+	width: 100%;
+	height: 100%;
+}
+.pic{
+	width: 4.6rem;
+	padding: 0.125rem;
+	border:0.025rem solid #e7e7e7;
+	border-top:none;
+}
+.pic_text{ 
+	width: 4.6rem;
+	padding: 0.125rem;
+	border:0.025rem solid #f3f3f3;
+}
+.name{
+	width: 4.6rem;
+	height: 1.125rem;
+	font-size: 0.6rem;
+	font-weight: bold;
+	line-height: 1.125rem;
+}
+.neme_text{
+	float: left;
+}
+.name_ico{
+	float: left;
+	width: 0.55rem;
+	height: 0.55rem;
+	background: url(../img/notice40.png) no-repeat;
+	background-size:100% 100%;
+	margin-top: 0.3rem;
+	margin-left: 0.45rem;
+}
+.intrduce{
+	font-size: 0.55rem;
+	line-height: 0.95rem;
+}
+.content_two{
+	width: 100%;
+}
+.content_box{
+	width: 100%;
+	margin-bottom: 0.475rem;
+	border-bottom: 0.025rem solid #eaeaea;
+}
+.content_two_head{
+	width: 100%;
+	height: 1.425rem;
+	background: white;
+	line-height: 1.425rem;
+	font-size: 0.6rem;
+	text-align: center;
+	font-weight: bold;
+	border-bottom: 0.025rem solid #cecece;
+}
+.content_two_item{
+	width: 14.4rem;
+	padding: 0.85rem 1.1rem 0 0.45rem;
+	background: white;
+}
+.new_top{
+	height:2.125rem;
+	padding-left: 2.925rem;
+	background: url(../img/girl.jpg) no-repeat;
+}
+.username{
+	line-height: 1.05rem;
+	font-size: 0.5rem;
+	font-weight: bold;
+}
+.username_ico{
+	float: left;
+	width: 0.55rem;
+	height: 0.55rem;
+	background: url(../img/notice40.png) no-repeat ;
+	background-size:100% 100%;
+	margin-top: 0.15rem;
+	margin-left: 0.35rem;
+}
+.time{
+	font-size: 0.5rem;
+	line-height: 1.075rem; 
+	color: #8b8b8b;
+}
+.new_bottom{
+	height: 1.9rem;
+	padding: 0.325rem 0 0.25rem 0;
+	font-size: 0.5rem;
+	line-height: 1rem;
+}
+.content_two_bottom{
+	height: 1.75rem;
+	line-height: 1.75rem;
+	background: white;
+	font-size: 0;
+	border: 0.024rem solid #eee;
+	text-align: center;
+	color: #afafaf;
+}
+.content_two_bottom span{
+	display: inline-block;
+	font-size: 0.5rem; 
+	margin-right: 1.55rem;
+	padding-left: 1.2rem;
+}
+.content_two_bottom span:nth-of-type(1){
+	background: url(../img/dianzan40.png)no-repeat 0 center ;
+	background-size:0.8rem 0.75rem ;
+}
+.content_two_bottom span:nth-of-type(2){
+	background: url(../img/dashang40.png)no-repeat 0 center ;
+	background-size:0.8rem 0.75rem ;
+}
+.content_two_bottom span:nth-of-type(3){
+	background: url(../img/share40.png)no-repeat 0 center ;
+	background-size:0.8rem 0.75rem ;
+}
+.new_bottom1{
+	height: 2.1rem;
+	text-align: center;
+	font-size: 0.5rem;
+	line-height: 2.1rem;
+	border-top: 0.075rem solid #e7e5e6;
+	background: url(../img/lock40.png)no-repeat 1.6rem center;
+}

@@ -1,0 +1,16 @@
+body{
+	background: #f0f0f0;
+}
+.nav{
+	width: 90%;
+	height: 2.2rem;
+	background: #f8f8f8;
+	line-height: 2.2rem;
+	padding: 0 5%;
+}
+.nav_left{
+	padding: 0.6rem 0 0 0;
+}
+.nav_right{
+	margin-left: 5.2rem;
+}
